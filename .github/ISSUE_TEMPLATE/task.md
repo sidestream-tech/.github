@@ -3,8 +3,21 @@ name: New Task
 about: Use this template to create a generic task with goal, context and task list
 title: "[TASK NAME]"
 ---
+### Goal
+
+
+
+### Context
+
+
+
+### Tasks
+
+- [ ] Sub-Task 1
+
+
 ```
-REMOVE THIS!
+DOCUMENTATION: REMOVE THIS!
 
 What are the different sections for?
 
@@ -28,15 +41,3 @@ Add the concrete sub-tasks that must be completed to reach the goal of the task.
 
 This section is required.
 ```
-
-### Goal
-
-
-
-### Context
-
-
-
-### Tasks
-
-- [ ] Sub-Task 1
