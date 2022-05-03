@@ -4,40 +4,38 @@ about: Use this template to create a generic task with goal, context and task li
 title: "[TASK NAME]"
 ---
 ### Goal
+<!--
+- Required
+- Must be verifiable,
+- Must be a brief sentence,
+- May assume prior knowledge
+-->
 
 
 
 ### Context
+<!-- 
+- Required
+- May be arbitrarily long and **must not** assume prior knowledge
+- Should explain novel technical concepts, customer requirements, backgrounds, ... as required for task completion
+- Should be understandable by anyone with basic project knowledge
+-->
+
+
+
+### Assets
+<!-- 
+- Optional
+- Should contain a list of assets required to understand or complete the task: mocks, icons, files
+-->
 
 
 
 ### Tasks
+<!-- 
+- Required
+- Should contain a list of checkboxes that must be completed to reach the goal of the task
+- Each element can contain more sub-elements (checkboxes or lists)
+-->
 
-- [ ] Sub-Task 1
-
-
-```
-DOCUMENTATION: REMOVE THIS!
-
-What are the different sections for?
-
-1. Goal?
-Write the goal of the task. The goal:
-- must be verifiable,
-- must be a brief sentence,
-- may assume prior knowledge
-
-This section is required.
-
-2. Context?
-
-Write the context of the task. This may be arbitrarily long and **must not** assume prior knowledge. You should explain novel technical concepts, customer requirements, backgrounds, ... as required for task completion. This should be understandable by anyone with basic project knowledge.
-
-This section is optional.
-
-3. Tasks?
-
-Add the concrete sub-tasks that must be completed to reach the goal of the task. Each sub-task should either be a markdown checkbox for a completable, concrete sub-task X (`- [ ] X`) or a bullet for information X (`- X`)
-
-This section is required.
-```
+- [ ] Example task
