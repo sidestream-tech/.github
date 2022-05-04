@@ -1,7 +1,8 @@
 ---
-name: New weekly scope
+name: New weekly
 about: Use this template to create weekly scope and planning
 title: "Weekly Scope [PROJECT NAME] KW [CALENDAR WEEK]"
+labels: weekly
 ---
 ## Weekly Scope
 

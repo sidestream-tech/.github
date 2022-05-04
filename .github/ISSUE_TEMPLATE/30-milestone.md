@@ -1,3 +1,9 @@
+---
+name: New milestone
+about: Use this template to create and track a milestone
+title: "Milestone [PROJECT NAME] [DEADLINE]"
+labels: milestone
+---
 ## Milestone Scope
 
 The milestone scope is about the full scope of a budget that was agreed to with a customer. So when the below scope is completed, the customer should be happy to pay and the product iteration should be done. This issue serves as an overview of overall progress and to discuss and adapt scope if required.
@@ -13,6 +19,16 @@ In the below scope:
 - non-first-level checkboxes are the breakdown, they will mostly become issues at some point during execution that will then be picked up in interval plannings and by team members
 - non-first-level bullets may be used to group the breakdown further, but must not be used on the first level
 
+To create the milestone:
+- [ ] fill out the "Scope" section below
+    - remove the example scope that currently fills the section
+    - use the "solution" and "breakdown" for the content
+    - in the beginning all or most of the list will be plain checkboxes and bullets
+- [ ] let TL, KAM, ... review where applicable
+- [ ] set the "Deadline" field in the project milestones view
+- [ ] close the milestone once:
+    - [ ] all scope was completed
+    - [ ] major changes dictate it (scope changes, side-agreements with customer, ...)
 
 ### Scope
 
