@@ -6,7 +6,7 @@ labels: milestone
 ---
 ## Milestone Scope
 
-The milestone scope is about the full scope of a budget that was agreed to with a customer. So when the below scope is completed, the customer should be happy to pay and the product iteration should be done. This issue serves as an overview of overall progress and to discuss and adapt scope if required.
+The milestone scope is about the full scope of a budget that was agreed to with a customer. So when the below scope is completed, the customer should be happy to pay and the product iteration should be done. This issue also serves to discuss and adapt scope if required.
 
 The milestone scope is closely related but not identical to the breakdown: The breakdown's goal is to inform a fulfilment crowd of people about how the full project scope will be implemented, the milestone's goal is to fix an agreement with non-technical customers about deliverable that we should implement.
 
@@ -39,13 +39,16 @@ Example scope, please overwrite:
     - [ ] create helm chart for deployment (must be an issue)
     - [ ] test deployment of helm chart to our own cluster (must be an issue)
     - [ ] deploy the helm chart to the customer cluster (must be an issue)
-- [ ] Frontend
-    - implement the base layout
-        - [ ] add the sidebar component
-        - [ ] add the sidebar container
-        - [ ] glue in the sidebar container to the app
-    - implement the operators view
-        - [ ] ...
-- [ ] Backend
-    - ...
+- [ ] a landing user area exists
+    - frontend
+        - implement the base layout
+            - [ ] add the sidebar component
+            - [ ] add the sidebar container
+            - [ ] glue in the sidebar container to the app
+        - implement user login / logout
+            - [ ] ...
+    - Backend
+        - [ ] research and discuss a user management solution
+        - [ ] add the user management solution to the backend
+        - [ ] addd login, logout, registration endpoints based on user management solution
 - [ ] ...
