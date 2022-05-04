@@ -17,4 +17,4 @@ title: "[TASK NAME]"
 
 ### Tasks
 
-- [ ]
+- [ ] Task A
