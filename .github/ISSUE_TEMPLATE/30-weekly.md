@@ -24,6 +24,8 @@ Plan the upcoming week:
 - [ ] set the "Week" column in the project board to "Week YY" for:
     - [ ] this weekly issue,
     - [ ] all issues you want the team to work on within week YY
+    - [ ] "bonus" issues that may be worked on optionally for stretch goals
+        - [ ] add the label "bonus" to these
 - [ ] optional: add labels to the tasks so that they are easily recognizable:
     - pm
     - development
