@@ -1,6 +1,6 @@
 ---
-name: New Task Tutorial
-about: Use this template to learn about New Task template
+name: New Task - The Tutorial
+about: Use this template to learn about `New Task` template
 title: "[TASK NAME]"
 ---
 ### Goal
