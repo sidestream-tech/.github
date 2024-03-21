@@ -1,4 +1,4 @@
-Closes # .
+Closes #
 
 Checklist:
 - [ ] issue number linked above after pound (`#`)
